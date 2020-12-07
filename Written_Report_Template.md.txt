@@ -1,0 +1,29 @@
+Kickstarting with Excel
+
+-Overview of Project
+The overview of this project is to gain data by month of the theater program and how successful the campaign was.
+
+-Purpose
+The purpose of this program is to show a line graph of the theater outcomes.
+-Analysis and Challenges
+The analysis of all theater outcomes by moth.
+-Analysis of Outcomes Based on Launch Date
+My analysis is May is the best month for campaigns.
+- Analysis of Outcomes Based on Goals
+The more the induvial had for a goal the more successful the campaign was.
+-Challenges and Difficulties Encountered
+The counterifs function has been the most challenge.
+- Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+There were more successful launch dates in May.
+- What can you conclude about the Outcomes based on Goals?
+The more money on goals the more successful the campaign.
+- What are some limitations of this dataset?
+
+People do not always provide accurate information.
+
+- What are some other possible tables and/or graphs that we could create?
+Bar graph
+histogram
+
